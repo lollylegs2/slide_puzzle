@@ -1,2 +1,6 @@
-# slide_puzzle
-A sliding puzzle game
+# Sliding Puzzle
+A sliding puzzle game built for my software assignment
+
+# Dependencies
+- Random
+- Pygame
